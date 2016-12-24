@@ -1,0 +1,733 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"format\tfunction"
+			],
+			[
+				"c",
+				"city\tforstmt"
+			],
+			[
+				"a",
+				"abbrev\tforstmt"
+			],
+			[
+				"mi",
+				"Michigan"
+			],
+			[
+				"F",
+				"Florida"
+			],
+			[
+				"st",
+				"stuff\tstatement"
+			],
+			[
+				"ne",
+				"next_one\tstatement"
+			],
+			[
+				"ra",
+				"raw_input\tfunction"
+			],
+			[
+				"gold",
+				"gold_room\tfunction"
+			],
+			[
+				"bear",
+				"bear_moved\tstatement"
+			],
+			[
+				"in",
+				"in"
+			],
+			[
+				"while",
+				"while_loop"
+			],
+			[
+				"p",
+				"people"
+			],
+			[
+				"prin",
+				"print_last_word"
+			],
+			[
+				"sort",
+				"sort_sentence"
+			],
+			[
+				"wo",
+				"words"
+			],
+			[
+				"print",
+				"print_last_word"
+			],
+			[
+				"break",
+				"break_words"
+			],
+			[
+				"w",
+				"words"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"brea",
+				"break_words"
+			],
+			[
+				"star",
+				"start_point"
+			],
+			[
+				"i",
+				"iq"
+			],
+			[
+				"cr",
+				"current_line"
+			],
+			[
+				"cu",
+				"current_line"
+			],
+			[
+				"curren",
+				"current_line"
+			],
+			[
+				"curr",
+				"current_file"
+			],
+			[
+				"int",
+				"integer"
+			],
+			[
+				"age",
+				"age_argv"
+			],
+			[
+				"am",
+				"amount_of_crackers"
+			],
+			[
+				"cheese",
+				"cheese_and_crackers"
+			],
+			[
+				"pri",
+				"print_two_again"
+			],
+			[
+				"arg",
+				"arg1"
+			],
+			[
+				"ar",
+				"arg1"
+			],
+			[
+				"out",
+				"out_file"
+			],
+			[
+				"to",
+				"to_file"
+			],
+			[
+				"from",
+				"from_file"
+			],
+			[
+				"txt",
+				"txt_again"
+			],
+			[
+				"fiel",
+				"filename"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"e",
+				"end4"
+			],
+			[
+				"joke",
+				"joke_evaluation"
+			],
+			[
+				"my",
+				"my_teeth"
+			],
+			[
+				"m",
+				"my_weight"
+			],
+			[
+				"car",
+				"carpool_capacity"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"anaconda",
+				"Anaconda: Show error list"
+			],
+			[
+				"",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"colorsu",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"m",
+				"Material Theme: Configuration"
+			],
+			[
+				"ma",
+				"Material Theme: Configuration"
+			],
+			[
+				"mat",
+				"Material Theme: Configuration"
+			],
+			[
+				"mater",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"material",
+				"Material Theme: Configuration"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"theme",
+				"Material Theme: Configuration"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"material theme ac",
+				"Material Theme: Activate theme"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"open side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"package control remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"space",
+				"Install Package Control"
+			]
+		],
+		"width": 431.0
+	},
+	"console":
+	{
+		"height": 194.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/peksi/setup.py",
+		"/home/peksi/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/peksi/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/peksi/Documents/python3/exercises/ex45/game2.py",
+		"/home/peksi/Documents/python3/exercises/ex45/game1.py",
+		"/home/peksi/Documents/python3/exercises/ex45/run.py",
+		"/home/peksi/Documents/python3/exercises/ex45/classes.py",
+		"/home/peksi/Documents/python3/exercises/ex45/script.py",
+		"/home/peksi/Documents/python3/exercises/oop_test.py",
+		"/home/peksi/Documents/python3/exercises/ex43.py",
+		"/home/peksi/Documents/python3/exercises/ex42.py",
+		"/home/peksi/Documents/python3/exercises/ex31.py",
+		"/home/peksi/Documents/untitled",
+		"/home/peksi/Documents/python3/exercises/ex40.py",
+		"/media/peksi/255 GB Volume/Users/Peksi/Desktop/password.txt",
+		"/media/peksi/255 GB Volume/Users/Peksi/Desktop/RusDosug.txt",
+		"/home/peksi/Documents/python3/exercises/ex35.py",
+		"/home/peksi/Documents/python3/exercises/ex37.py",
+		"/home/peksi/Documents/python3/exercises/ex38.py",
+		"/home/peksi/Documents/python3/exercises/ex36.py",
+		"/home/peksi/Documents/python3/exercises/ex33.py",
+		"/home/peksi/Documents/python3/exercises/ex39.py",
+		"/home/peksi/Documents/python3/exercises/ex32.py",
+		"/home/peksi/Documents/python3/exercises/ex29.py",
+		"/home/peksi/Documents/python3/exercises/ex30.py",
+		"/home/peksi/Documents/python3/exercises/ex28.py",
+		"/home/peksi/Documents/python3/exercises/ex26.py",
+		"/home/peksi/Documents/python3/exercises/ex25.py",
+		"/home/peksi/Documents/python3/exercises/ex21.py",
+		"/home/peksi/Documents/python3/exercises/ex24.py",
+		"/home/peksi/Documents/python3/exercises/ex19.py",
+		"/home/peksi/Documents/python3/exercises/ex20.py",
+		"/home/peksi/Documents/python3/exercises/ex17.py",
+		"/home/peksi/Documents/python3/exercises/ex18.py",
+		"/home/peksi/Documents/python3/exercises/ex16.py",
+		"/home/peksi/Documents/python3/exercises/ex15.py",
+		"/home/peksi/Documents/python3/exercises/ex14.py",
+		"/home/peksi/Documents/python3/exercises/ex13.py",
+		"/home/peksi/Documents/python3/exercises/ex12.py",
+		"/home/peksi/Documents/python3/exercises/ex11.py",
+		"/home/peksi/Documents/python3/exercises/ex10.py",
+		"/home/peksi/Documents/python3/exercises/ex09.py",
+		"/home/peksi/Documents/python3/exercises/ex08.py",
+		"/home/peksi/Documents/python3/exercises/ex07.py",
+		"/home/peksi/Documents/python3/exercises/ex06.py",
+		"/home/peksi/Documents/python3/exercises/ex05.py",
+		"/home/peksi/Documents/python3/exercises/ex04.py",
+		"/home/peksi/Documents/python3/exercises/ex03.py",
+		"/home/peksi/Documents/python3/exercises/ex02.py",
+		"/home/peksi/Documents/python3/exercises/ex01.py",
+		"/home/peksi/Documents/python2/exercises/ex01.py",
+		"/home/peksi/Documents/python2/exercises/ex02.py",
+		"/home/peksi/Documents/python2/exercises/ex39.py",
+		"/home/peksi/Documents/python2/exercises/ex38.py",
+		"/home/peksi/Documents/python2/exercises/ex37.py",
+		"/home/peksi/Documents/python2/exercises/fork_bomb.py",
+		"/home/peksi/Documents/python2/exercises/ex35.py",
+		"/home/peksi/Documents/python2/exercises/ex36.py",
+		"/var/lib/apt/lists/lock",
+		"/home/peksi/Documents/python2/exercises/ex32.py",
+		"/home/peksi/Documents/python2/exercises/ex33.py",
+		"/home/peksi/Documents/python2/exercises/ex34.txt",
+		"/home/peksi/Documents/python2/exercises/ex34.py",
+		"/home/peksi/Documents/python2/exercises/ex31.py",
+		"/home/peksi/Documents/python2/exercises/ex30.py",
+		"/home/peksi/Documents/python2/exercises/ex29.py",
+		"/home/peksi/Documents/python2/exercises/ex28.py",
+		"/home/peksi/Documents/python2/exercises/ex26.py",
+		"/home/peksi/Documents/python2/exercises/ex24.py",
+		"/home/peksi/Documents/python2/exercises/ex25.py",
+		"/home/peksi/Documents/python2/exercises/ex21.py",
+		"/home/peksi/Documents/python2/exercises/ex20.py",
+		"/home/peksi/Documents/python2/exercises/ex19.py",
+		"/home/peksi/Documents/python2/exercises/ex18.py",
+		"/home/peksi/Documents/python2/exercises/ex17.py",
+		"/home/peksi/Documents/python2/exercises/ex16.py",
+		"/home/peksi/Documents/python2/exercises/ex15.py",
+		"/home/peksi/Documents/python2/exercises/ex14.py",
+		"/home/peksi/Documents/python2/exercises/ex13.py",
+		"/home/peksi/Documents/python2/function checklist",
+		"/home/peksi/Documents/python2/exercises/ex12.py",
+		"/home/peksi/Documents/python2/exercises/ex10.py",
+		"/home/peksi/Documents/python2/exercises/ex11.py",
+		"/home/peksi/Documents/python2/exercises/ex09.py",
+		"/home/peksi/Documents/python2/exercises/ex08.py",
+		"/home/peksi/Documents/python2/exercises/ex07.py",
+		"/home/peksi/Documents/python2/exercises/ex05.py",
+		"/home/peksi/Documents/python2/exercises/ex04.py",
+		"/home/peksi/Documents/python2/exercises/ex06.py",
+		"/home/peksi/ex33.py",
+		"/home/peksi/Documents/python2/exercises/ex03.py",
+		"/home/peksi/Documents/python2/exercises/ex25.pyc",
+		"/home/peksi/Documents/python2/exercises/ex26.pyc",
+		"/home/peksi/Documents/python2/exercises/ex23.py",
+		"/media/peksi/2,0 TB Volume/µTorrent/kali-linux-2016.2-amd64/kali-linux-2016.2-amd64.txt.sha1sum",
+		"/home/peksi/Documents/python2/exercises/ex17_from.txt",
+		"/home/peksi/Documents/python2/exercises/ex17_to.txt",
+		"/home/peksi/Documents/python2/exercises/ex16.txt",
+		"/home/peksi/Documents/python2/exercises/test.txt",
+		"/home/peksi/Documents/python2/exercises/test2.txt",
+		"/home/peksi/Documents/python2/ex21.py",
+		"/home/peksi/Documents/python2/ex18.py",
+		"/home/peksi/Documents/python2/ex19.py",
+		"/home/peksi/Documents/python2/new_file.txt",
+		"/home/peksi/Documents/python2/test.txt",
+		"/home/peksi/Documents/python2/ex17.py",
+		"/home/peksi/Documents/python2/ex17_one_line.py",
+		"/home/peksi/Documents/python2/new_file2.txt",
+		"/home/peksi/Documents/python2/ex15.txt",
+		"/home/peksi/Documents/python2/ex17",
+		"/home/peksi/Documents/python2/ex01.py",
+		"/home/peksi/Documents/python2/ex02.py",
+		"/home/peksi/Documents/python2/ex03.py",
+		"/home/peksi/Documents/python2/ex04.py",
+		"/home/peksi/Documents/python2/ex05.py",
+		"/home/peksi/Documents/python2/ex06.py",
+		"/home/peksi/Documents/python2/ex07.py",
+		"/home/peksi/Documents/python2/ex08.py",
+		"/home/peksi/Documents/python2/ex09.py",
+		"/home/peksi/Documents/python2/ex10.py",
+		"/home/peksi/Documents/python2/ex11.py",
+		"/home/peksi/Documents/python2/ex12.py",
+		"/home/peksi/Documents/python2/ex13.py",
+		"/home/peksi/Documents/python2/ex14.py",
+		"/home/peksi/Documents/python2/ex16.py",
+		"/home/peksi/Documents/python2/ex15.py",
+		"/home/peksi/Documents/python2/ex15_sample.txt",
+		"/home/peksi/Videos/Series/desktop.ini"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"game =",
+			"#",
+			"raw_",
+			"d",
+			"%",
+			"g",
+			"%s",
+			"print",
+			"%s",
+			"print",
+			"%",
+			"s",
+			" %",
+			"s",
+			"raw_",
+			"%s",
+			"raw_",
+			"%r",
+			"%",
+			"%r",
+			"%s",
+			"format((",
+			"%",
+			"%s",
+			"%g",
+			"%",
+			"print",
+			"Print",
+			"print",
+			"Print",
+			"print",
+			"Print",
+			"print",
+			"Print",
+			"print",
+			"Print",
+			"print",
+			"Print",
+			"print",
+			"Print",
+			"print",
+			"#",
+			"False",
+			"false",
+			"False",
+			"false",
+			"true",
+			"True",
+			"true",
+			"True",
+			"true",
+			"ex25",
+			"#",
+			"print",
+			"\n#",
+			"\n##",
+			"Defines",
+			";",
+			"line1",
+			"s",
+			"first_name",
+			"user_name",
+			"third",
+			"kulli",
+			"argv",
+			"t",
+			"n",
+			"?\",",
+			"?\",\n",
+			"?\",",
+			"print",
+			"r",
+			"s",
+			"r",
+			"end",
+			"end1",
+			"end",
+			"end1",
+			"end",
+			"end1",
+			"d",
+			"f",
+			"e",
+			"d",
+			"eight",
+			"height",
+			" %",
+			"% ",
+			"d",
+			"height",
+			" \n",
+			"eight",
+			"eigh",
+			"age",
+			"my_",
+			"my_name",
+			"my_",
+			"my_name",
+			"cars",
+			"more",
+			"print"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ex01.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"14",
+				"python2/ex14.py"
+			],
+			[
+				"13",
+				"python2/ex13.py"
+			],
+			[
+				"12",
+				"python2/ex12.py"
+			],
+			[
+				"11",
+				"python2/ex11.py"
+			],
+			[
+				"10",
+				"python2/ex10.py"
+			],
+			[
+				"9",
+				"python2/ex09.py"
+			],
+			[
+				"8",
+				"python2/ex08.py"
+			],
+			[
+				"7",
+				"python2/ex07.py"
+			],
+			[
+				"6",
+				"python2/ex06.py"
+			],
+			[
+				"",
+				"python2/ex05.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
