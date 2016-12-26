@@ -1,9 +1,0 @@
-{
-  "ex48/tests/test_directions.py": true,
-  "ex48/tests/test_errors.py": true,
-  "ex48/tests/test_nouns.py": true,
-  "ex48/tests/test_numbers.py": true,
-  "ex48/tests/test_stops.py": true,
-  "ex48/tests/test_verbs.py": true,
-  "exercises/oop_test.py": true
-}
